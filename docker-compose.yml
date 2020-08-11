@@ -2,10 +2,12 @@ version: '3'
 
 services:
   jpe:
-    build: .
+    image: jekyll/jekyll:4
     container_name: jpe
     ports:
       - 4000:4000
     volumes:
-      - ./:/src
-    tty: true
+      - ./:/srv/jekyll
+    environment:
+      JEKYLL_VERSION: 4.1.1
+    command: jekyll serve --verbose --force_polling
