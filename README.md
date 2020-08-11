@@ -1,4 +1,4 @@
-# jekyll-plugin-example
+# docker-jekyll
 
 ## Usage
 
