@@ -1,4 +1,4 @@
-FROM ruby:2.6.2
+FROM ruby:2.7.1
 RUN apt-get update -qq
 
 ENV LANG C.UTF-8
