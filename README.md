@@ -1,5 +1,8 @@
 # jekyll-plugin-example
 
+## Usage
+
+Please run the following command.
 ```
 docker-compose up -d
 docker exec -it jpe bash
