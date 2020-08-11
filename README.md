@@ -2,8 +2,7 @@
 
 ```
 docker-compose up -d
-docker ps
-docker exec -it <CONTAINER ID> bash
+docker exec -it jpe bash
 ```
 
 ```
