@@ -58,7 +58,7 @@ build-iPhoneSimulator/
 # .rubocop-https?--*
 
 
-## Jekyll.gitignore
+## Jekyll.gitignore ea2aa40
 ## https://github.com/github/gitignore/blob/master/Jekyll.gitignore
 _site/
 .sass-cache/
