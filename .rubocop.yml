@@ -1,3 +1,6 @@
 ## https://docs.rubocop.org/rubocop/
 
 require: rubocop-performance
+
+AllCops:
+  NewCops: enable
