@@ -5,5 +5,5 @@ ruby '2.6.2'
 source 'http://rubygems.org'
 
 gem 'jekyll'
-gem 'rubocop', require: false
+gem 'rubocop', '~> 0.89.1', require: false
 gem 'rubocop-performance', require: false
