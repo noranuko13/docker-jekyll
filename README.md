@@ -1,5 +1,7 @@
 # docker-jekyll
 
+Display a simple Jekyll site with docker-compose.
+
 ## Usage
 
 Please run the following command.
