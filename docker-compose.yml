@@ -9,5 +9,5 @@ services:
     volumes:
       - ./:/srv/jekyll
     environment:
-      JEKYLL_VERSION: 4.1.1
+      JEKYLL_VERSION: 4.2.0
     command: jekyll serve --verbose --force_polling
