@@ -1,4 +1,4 @@
-# docker-jekyll
+# docker-compose-jekyll
 
 Display a simple Jekyll site with docker-compose.
 
