@@ -1,3 +1,6 @@
+## JetBrains.gitignore
+.idea/
+
 ## Ruby.gitignore baf1355
 ## https://github.com/github/gitignore/blob/master/Ruby.gitignore
 *.gem
