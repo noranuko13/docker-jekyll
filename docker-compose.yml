@@ -5,7 +5,7 @@ services:
     image: jekyll/jekyll:4
     container_name: dj
     ports:
-      - 4000:4000
+      - "4000:4000"
     volumes:
       - ./:/srv/jekyll
     environment:
